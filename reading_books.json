@@ -130,5 +130,95 @@
     "coverImage": "img/sepak.png",
     "flipbookUrl": "https://online.anyflip.com/byhxy/mbvv/index.html",
     "quizUrl": "https://kuis-sepakbola.netlify.app/"
+  },
+  {
+    "title": "Rima Si Pemberani",
+    "author": "Rakibul Islam",
+    "year": "2004",
+    "category": "Level 2",
+    "synopsis": "This story Rima si Pemberani is translated by Kurniaddin Mahmud . The © for this translation lies with Badan Pengembangan dan Pembinaan Bahasa, 2022. Some rights reserved. Released under CC BY 4.0 license. Derived from Brave Rima, by Alisha Berger . © Room to Read , 2016. Some rights reserved. Released under CC BY 4.0 license. Based on Original story সাহসী রিমা, by Rakibul Islam . © Room to Read , 2016. Some rights reserved. Released under CC BY 4.0 license.",
+    "coverImage": "img/rima.JPG",
+    "flipbookUrl": "https://online.anyflip.com/byhxy/nssf/index.html",
+    "quizUrl": "https://still-inprogress.netlify.app/"
+  },
+  {
+    "title": "Hari Olahraga",
+    "author": "Menaka Raman",
+    "year": "2004",
+    "category": "Level 2",
+    "synopsis": "This story Hari Olahraga is translated by Amalia Nindy Astuti . The © for this translation lies with Badan Pengembangan dan Pembinaan Bahasa, 2022. Some rights reserved. Released under CC BY 4.0 license. Based on Original story Sports Day, by Menaka Raman . © Pratham Books , 2019. Some rights reserved. Released under CC BY 4.0 license.",
+    "coverImage": "img/olahraga.JPG",
+    "flipbookUrl": "https://online.anyflip.com/byhxy/bhjm/index.html",
+    "quizUrl": "https://still-inprogress.netlify.app/"
+  },
+  {
+    "title": "Ketika Matahari Terbit",
+    "author": "Tara Pun",
+    "year": "2004",
+    "category": "Level 2",
+    "synopsis": "This story Ketika Matahari Terbit is translated by Nur Wulan Sari . The © for this translation lies with Badan Pengembangan dan Pembinaan Bahasa, 2022. Some rights reserved. Released under CC BY 4.0 license. Derived from In the Light of the Rising Sun, by Shannon David . © Room to Read , 2010. Some rights reserved. Released under CC BY 4.0 license. Based on Original story बिहानीको घामसँगै, by Tara Pun . © Room to Read , 2010. Some rights reserved. Released under CC BY 4.0 license.",
+    "coverImage": "img/matahari.JPG",
+    "flipbookUrl": "https://online.anyflip.com/byhxy/ydck/index.html",
+    "quizUrl": "https://still-inprogress.netlify.app/"
+  },
+  {
+    "title": "Pensil Warna",
+    "author": " Long Ravy",
+    "year": "2004",
+    "category": "Level 2",
+    "synopsis": "This story Pensil Warna is translated by Fathu Rakhman Marangka . The © for this translation lies with Badan Pengembangan dan Pembinaan Bahasa, 2022. Some rights reserved. Released under CC BY 4.0 license. Derived from Colouring Pencils, by Gouri Srinidhi . © Room to Read , 2014. Some rights reserved. Released under CC BY 4.0 license. Based on Original story ខ្មៅដៃពណ៌, by Long Ravy . © Room to Read , 2014. Some rights reserved. Released under CC BY 4.0 license.",
+    "coverImage": "img/pensil.JPG",
+    "flipbookUrl": "https://online.anyflip.com/byhxy/yftx/index.html",
+    "quizUrl": "https://still-inprogress.netlify.app/"
+  },
+  {
+    "title": "Tara Menemukan Bintang-Bintangnya",
+    "author": "Mala Kumar and Manisha Chaudhry",
+    "year": "2004",
+    "category": "Level 3",
+    "synopsis": "This storyTara Menemukan Bintang-Bintangnya. is translated by Nasema Zeerak . The © for this translation lies with The Asia Foundation, 2017. Some rights reserved. Released under CC BY 4.0 license. Derived from Tara finds her stars, by Francesca Di Felice . © Francesca Di Felice , 2017. Some rights reserved. Released under CC BY 4.0 license. Based on Original story Tara Finds Her Stars, by Mala Kumar, Manisha Chaudhry . © Pratham Books , 2015. Some rights reserved. Released under CC BY 4.0 license.",
+    "coverImage": "img/tara.JPG",
+    "flipbookUrl": "https://online.anyflip.com/byhxy/mjtx/index.html",
+    "quizUrl": "https://still-inprogress.netlify.app/"
+  },
+  {
+    "title": "Gul di Luar Angkasa",
+    "author": "Richa Jha",
+    "year": "2004",
+    "category": "Level 3",
+    "synopsis": "This story Gul di Luar Angkasa is translated by Nasema Zeerak . The © for this translation lies with Pratham Books, 2017. Some rights reserved. Released under CC BY 4.0 license. Based on Original story Gul in Space, by Richa Jha . © Pratham Books , 2017. Some rights reserved. Released under CC BY 4.0 license.",
+    "coverImage": "img/gul.JPG",
+    "flipbookUrl": "https://online.anyflip.com/byhxy/ytet/index.html",
+    "quizUrl": "https://still-inprogress.netlify.app/"
+  },
+  {
+    "title": "Sama Ataukah Berbeda",
+    "author": "Roopa Pai",
+    "year": "2004",
+    "category": "Level 3",
+    "synopsis": "This story Sama ataukah Berbeda? is translated by Nasema Zeerak . The © for this translation lies with Pratham Books, 2017. Some rights reserved. Released under CC BY 4.0 license. Based on Original story Same-same or Different?, by Roopa Pai . © Pratham Books, 2017. Some rights reserved. Released under CC BY 4.0 license.",
+    "coverImage": "img/sama.JPG",
+    "flipbookUrl": "https://online.anyflip.com/byhxy/hork/index.html",
+    "quizUrl": "https://still-inprogress.netlify.app/"
+  },
+  {
+    "title": "Setiap Menit Berharga",
+    "author": "Shabnam Minwalla",
+    "year": "2004",
+    "category": "Level 3",
+    "synopsis": "This story Setiap Menit Berharga is translated by Iona Stella Lumban Tobing . The © for this translation lies with Badan Pengembangan dan Pembinaan Bahasa, 2022. Some rights reserved. Released under CC BY 4.0 license. Based on Original story Every Minute Counts, by Shabnam Minwalla . © Pratham Books, 2021. Some rights reserved. Released under CC BY 4.0 license.",
+    "coverImage": "img/menit.JPG",
+    "flipbookUrl": "https://online.anyflip.com/byhxy/efxh/index.html",
+    "quizUrl": "https://still-inprogress.netlify.app/"
+  },
+  {
+    "title": "Safari Akbar",
+    "author": "Rohini Nilekani",
+    "year": "2004",
+    "category": "Level 3",
+    "synopsis": "This story Safari Akbar is translated by Ahmad Husni . The © for this translation lies with Badan Pengembangan dan Pembinaan Bahasa, 2023. Some rights reserved. Released under CC BY 4.0 license. Based on Original story The Great Rifasa, by Rohini Nilekani . © Pratham Books , 2021. Some rights reserved. Released under CC BY 4.0 license.",
+    "coverImage": "img/safari.JPG",
+    "flipbookUrl": "https://online.anyflip.com/byhxy/nlcy/index.html",
+    "quizUrl": "https://still-inprogress.netlify.app/"
   }
 ]
