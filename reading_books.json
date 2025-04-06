@@ -22,6 +22,17 @@
     "id": "saboo-dan-jojo"
   },
   {
+    "title": "Tiga Kucing Kecil",
+    "author": "Chou Chinith",
+    "year": "2023",
+    "category": "Level 1",
+    "synopsis": "Tiga Kucing Kecil (Bahasa Indonesia), translated by Anies Rohidayah, published by Badan Pengembangan dan Pembinaan Bahasa (© Badan Pengembangan dan Pembinaan Bahasa, 2022) based on the original story កូនឆ្មាបី (Khmer), written by Chou Chinith, illustrated by Youm Kosal, published by Room to Read (© Room to Read, 2013) under a CC BY 4.0 license on StoryWeaver.",
+    "coverImage": "img/saboo.JPG",
+    "flipbookUrl": "https://123mulyono.github.io/saboo/",
+    "quizUrl": "https://saboojojo.netlify.app/",
+    "id": "saboo-dan-jojo"
+  },
+  {
     "title": "Monster! Tolong!",
     "author": "Sanjana Kapur",
     "year": "2023",
@@ -69,7 +80,7 @@
     "synopsis": "This story Mari Berjalan Bersama is translated by Dwita Rizki Nientyas . The © for this translation lies with Badan Pengembangan dan Pembinaan Bahasa, 2022. Some rights reserved. Released under CC BY 4.0 license. Derived from 같이 걷자, by Daniel Choi . © Daniel Choi , 2020. Some rights reserved. Released under CC BY 4.0 license. Based on Original story Walking Together, by Jade Mathieson . © Book Dash , 2015. Some rights reserved. Released under CC BY 4.0 license.",
     "coverImage": "img/berjalan.png",
     "flipbookUrl": "https://online.anyflip.com/byhxy/hpdp/index.html",
-    "quizUrl": "https://still-inprogress.netlify.app/"
+    "quizUrl": "https://kuis-berjalan.netlify.app/"
   },
   {
     "title": "Dunia Buku",
@@ -99,7 +110,7 @@
     "synopsis": "This story Jas Hujan Merah is translated by Nasema Zeerak . The © for this translation lies with The Asia Foundation, 2015. Some rights reserved. Released under CC BY 4.0 license. Based on Original story The Red Raincoat, by Kiran Kasturia . © Pratham Books , 2015. Some rights reserved. Released under CC BY 4.0 license.",
     "coverImage": "img/jas hujan.png",
     "flipbookUrl": "https://online.anyflip.com/byhxy/gdgq/index.html",
-    "quizUrl": "https://still-inprogress.netlify.app/"
+    "quizUrl": "https://kuis-jashujan.netlify.app//"
   },
   {
     "title": "Semut yang Sibuk",
@@ -109,7 +120,7 @@
     "synopsis": "This story Semut yang Sibuk is translated by Nasema Zeerak . The © for this translation lies with The Asia Foundation, 2017. Some rights reserved. Released under CC BY 4.0 license. Derived from Busy Ants, by Anastasia Liapchenko . © Anastasia Liapchenko , 2017. Some rights reserved. Released under CC BY 4.0 license. Based on Original story Busy Ants, by Kanchan Bannerjee . © Pratham Books , 2015. Some rights reserved. Released under CC BY 4.0 license.",
     "coverImage": "img/semut.png",
     "flipbookUrl": "https://online.anyflip.com/byhxy/eshd/index.html",
-    "quizUrl": "https://still-inprogress.netlify.app/"
+    "quizUrl": "https://kuis-semut.netlify.app/"
   },
   {
     "title": "Layang-Layang Merah",
