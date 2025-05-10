@@ -8,7 +8,7 @@
     "coverImage": "img/putri.JPG",
     "flipbookUrl": "https://online.pubhtml5.com/bszci/xlms/",
     "quizUrl": "https://kuis-putri.netlify.app/",
-    "audiobookUrl": "https://still-inprogress.netlify.app/",
+    "audioUrl": "https://still-inprogress.netlify.app/",
     "id": "putri"
   },
   {
@@ -20,7 +20,7 @@
     "coverImage": "img/saboo.JPG",
     "flipbookUrl": "https://123mulyono.github.io/saboo/",
     "quizUrl": "https://saboojojo.netlify.app/",
-    "audiobookUrl": "https://still-inprogress.netlify.app/",
+    "audioUrl": "https://still-inprogress.netlify.app/",
     "id": "saboo-dan-jojo"
   },
   {
@@ -32,7 +32,7 @@
     "coverImage": "img/tigakucing.JPG",
     "flipbookUrl": "https://online.pubhtml5.com/bszci/cgah/",
     "quizUrl": "https://kuis-tigakucing.netlify.app/",
-    "audiobookUrl": "https://youtu.be/WcZgghJpiEk",
+    "audioUrl": "https://www.youtube.com/embed/WcZgghJpiEk",
     "id": "3 kucing"
   },
   {
@@ -44,7 +44,7 @@
     "coverImage": "img/monster.JPG",
     "flipbookUrl": "https://123mulyono.github.io/monster/",
     "quizUrl": "https://monstertolong.netlify.app/",
-    "audiobookUrl": "https://still-inprogress.netlify.app/"
+    "audioUrl": "https://still-inprogress.netlify.app/"
   },
   {
     "title": "Membeli Buku",
@@ -55,7 +55,7 @@
     "coverImage": "img/membeli buku.JPG",
     "flipbookUrl": "https://heyzine.com/flip-book/26a9cd968a.html",
     "quizUrl": "https://membelibuku.netlify.app/",
-    "audiobookUrl": "https://still-inprogress.netlify.app/"
+    "audioUrl": "https://still-inprogress.netlify.app/"
   },
   {
     "title": "Sekolah Rimba",
@@ -66,7 +66,7 @@
     "coverImage": "img/sekolah rimba.JPG",
     "flipbookUrl": "https://heyzine.com/flip-book/82d540e8f0.html",
     "quizUrl": "https://sekolahrimba.netlify.app/",
-    "audiobookUrl": "https://still-inprogress.netlify.app/"
+    "audioUrl": "https://still-inprogress.netlify.app/"
   },
   {
     "title": "Satya yang Tidak Bisa Diam",
@@ -77,7 +77,7 @@
     "coverImage": "img/satya.JPG",
     "flipbookUrl": "https://heyzine.com/flip-book/a3deff16f1.html",
     "quizUrl": "https://satyadiam.netlify.app/",
-    "audiobookUrl": "https://still-inprogress.netlify.app/"
+    "audioUrl": "https://still-inprogress.netlify.app/"
   },
   {
     "title": "Mari Berjalan Bersama",
@@ -88,7 +88,7 @@
     "coverImage": "img/berjalan.png",
     "flipbookUrl": "https://online.anyflip.com/byhxy/hpdp/index.html",
     "quizUrl": "https://kuis-berjalan.netlify.app/",
-    "audiobookUrl": "https://still-inprogress.netlify.app/"
+    "audioUrl": "https://still-inprogress.netlify.app/"
   },
   {
     "title": "Dunia Buku",
@@ -99,7 +99,7 @@
     "coverImage": "img/buku.png",
     "flipbookUrl": "https://online.anyflip.com/byhxy/moiw/index.html",
     "quizUrl": "https://duniabuku.netlify.app/",
-    "audiobookUrl": "https://still-inprogress.netlify.app/"
+    "audioUrl": "https://still-inprogress.netlify.app/"
   },
   {
     "title": "Pentingnya Air",
@@ -110,7 +110,7 @@
     "coverImage": "img/air.png",
     "flipbookUrl": "https://online.anyflip.com/byhxy/bxiu/index.html",
     "quizUrl": "https://kuis-hematair.netlify.app/",
-    "audiobookUrl": "https://still-inprogress.netlify.app/"
+    "audioUrl": "https://still-inprogress.netlify.app/"
   },
   {
     "title": "Jas Hujan Merah",
@@ -121,7 +121,7 @@
     "coverImage": "img/jas hujan.png",
     "flipbookUrl": "https://online.anyflip.com/byhxy/gdgq/index.html",
     "quizUrl": "https://kuis-jashujan.netlify.app//",
-    "audiobookUrl": "https://still-inprogress.netlify.app/"
+    "audioUrl": "https://still-inprogress.netlify.app/"
   },
   {
     "title": "Semut yang Sibuk",
@@ -132,7 +132,7 @@
     "coverImage": "img/semut.png",
     "flipbookUrl": "https://online.anyflip.com/byhxy/eshd/index.html",
     "quizUrl": "https://kuis-semut.netlify.app/",
-    "audiobookUrl": "https://still-inprogress.netlify.app/"
+    "audioUrl": "https://still-inprogress.netlify.app/"
   },
   {
     "title": "Layang-Layang Merah",
@@ -143,7 +143,7 @@
     "coverImage": "img/layang.png",
     "flipbookUrl": "https://online.anyflip.com/byhxy/xbir/index.html",
     "quizUrl": "https://kuis-layang.netlify.app/",
-    "audiobookUrl": "https://still-inprogress.netlify.app/"
+    "audioUrl": "https://still-inprogress.netlify.app/"
   },
   {
     "title": "Ah! Sepak Bola!",
@@ -154,7 +154,7 @@
     "coverImage": "img/sepak.png",
     "flipbookUrl": "https://online.anyflip.com/byhxy/mbvv/index.html",
     "quizUrl": "https://kuis-sepakbola.netlify.app/",
-    "audiobookUrl": "https://still-inprogress.netlify.app/"
+    "audioUrl": "https://still-inprogress.netlify.app/"
   },
   {
     "title": "Rima Si Pemberani",
@@ -165,7 +165,7 @@
     "coverImage": "img/rima.JPG",
     "flipbookUrl": "https://online.anyflip.com/byhxy/nssf/index.html",
     "quizUrl": "https://still-inprogress.netlify.app/",
-    "audiobookUrl": "https://still-inprogress.netlify.app/"
+    "audioUrl": "https://still-inprogress.netlify.app/"
   },
   {
     "title": "Hari Olahraga",
@@ -176,7 +176,7 @@
     "coverImage": "img/olahraga.JPG",
     "flipbookUrl": "https://online.anyflip.com/byhxy/bhjm/index.html",
     "quizUrl": "https://still-inprogress.netlify.app/",
-    "audiobookUrl": "https://still-inprogress.netlify.app/"
+    "audioUrl": "https://still-inprogress.netlify.app/"
   },
   {
     "title": "Ketika Matahari Terbit",
@@ -187,7 +187,7 @@
     "coverImage": "img/matahari.JPG",
     "flipbookUrl": "https://online.anyflip.com/byhxy/ydck/index.html",
     "quizUrl": "https://still-inprogress.netlify.app/",
-    "audiobookUrl": "https://still-inprogress.netlify.app/"
+    "audioUrl": "https://still-inprogress.netlify.app/"
   },
   {
     "title": "Pensil Warna",
@@ -198,7 +198,7 @@
     "coverImage": "img/pensil.JPG",
     "flipbookUrl": "https://online.anyflip.com/byhxy/yftx/index.html",
     "quizUrl": "https://still-inprogress.netlify.app/",
-    "audiobookUrl": "https://still-inprogress.netlify.app/"
+    "audioUrl": "https://still-inprogress.netlify.app/"
   },
   {
     "title": "Tara Menemukan Bintang-Bintangnya",
@@ -209,7 +209,7 @@
     "coverImage": "img/tara.JPG",
     "flipbookUrl": "https://online.anyflip.com/byhxy/mjtx/index.html",
     "quizUrl": "https://still-inprogress.netlify.app/",
-    "audiobookUrl": "https://still-inprogress.netlify.app/"
+    "audioUrl": "https://still-inprogress.netlify.app/"
   },
   {
     "title": "Gul di Luar Angkasa",
@@ -220,7 +220,7 @@
     "coverImage": "img/gul.JPG",
     "flipbookUrl": "https://online.anyflip.com/byhxy/ytet/index.html",
     "quizUrl": "https://still-inprogress.netlify.app/",
-    "audiobookUrl": "https://still-inprogress.netlify.app/"
+    "audioUrl": "https://still-inprogress.netlify.app/"
   },
   {
     "title": "Sama Ataukah Berbeda",
@@ -231,7 +231,7 @@
     "coverImage": "img/sama.JPG",
     "flipbookUrl": "https://online.anyflip.com/byhxy/hork/index.html",
     "quizUrl": "https://still-inprogress.netlify.app/",
-    "audiobookUrl": "https://still-inprogress.netlify.app/"
+    "audioUrl": "https://still-inprogress.netlify.app/"
   },
   {
     "title": "Setiap Menit Berharga",
@@ -242,7 +242,7 @@
     "coverImage": "img/menit.JPG",
     "flipbookUrl": "https://online.anyflip.com/byhxy/efxh/index.html",
     "quizUrl": "https://still-inprogress.netlify.app/",
-    "audiobookUrl": "https://still-inprogress.netlify.app/"
+    "audioUrl": "https://still-inprogress.netlify.app/"
   },
   {
     "title": "Safari Akbar",
@@ -253,6 +253,6 @@
     "coverImage": "img/safari.JPG",
     "flipbookUrl": "https://online.anyflip.com/byhxy/nlcy/index.html",
     "quizUrl": "https://still-inprogress.netlify.app/",
-    "audiobookUrl": "https://still-inprogress.netlify.app/"
+    "audioUrl": "https://still-inprogress.netlify.app/"
   }
 ]
