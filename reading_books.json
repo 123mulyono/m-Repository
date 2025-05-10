@@ -8,6 +8,7 @@
     "coverImage": "img/putri.JPG",
     "flipbookUrl": "https://online.pubhtml5.com/bszci/xlms/",
     "quizUrl": "https://kuis-putri.netlify.app/",
+    "audiobookUrl": "https://still-inprogress.netlify.app/",
     "id": "putri"
   },
   {
@@ -19,6 +20,7 @@
     "coverImage": "img/saboo.JPG",
     "flipbookUrl": "https://123mulyono.github.io/saboo/",
     "quizUrl": "https://saboojojo.netlify.app/",
+    "audiobookUrl": "https://still-inprogress.netlify.app/",
     "id": "saboo-dan-jojo"
   },
   {
@@ -30,6 +32,7 @@
     "coverImage": "img/tigakucing.JPG",
     "flipbookUrl": "https://online.pubhtml5.com/bszci/cgah/",
     "quizUrl": "https://kuis-tigakucing.netlify.app/",
+    "audiobookUrl": "https://youtu.be/WcZgghJpiEk",
     "id": "3 kucing"
   },
   {
@@ -40,7 +43,8 @@
     "synopsis": "This story Monster! Tolong! is translated by Franciscus Dondy Yanuprasetya . The © for this translation lies with Badan Pengembangan dan Pembinaan Bahasa, 2021. Some rights reserved. Released under CC BY 4.0 license. Derived from Au secours! Un monstre!, by Sak Untala . © Sak Untala , 2019. Some rights reserved. Released under CC BY 4.0 license. Based on Original story Shh! Whats That?, by Sanjana Kapur . © Pratham Books , 2019. Some rights reserved. Released under CC BY 4.0 license.",
     "coverImage": "img/monster.JPG",
     "flipbookUrl": "https://123mulyono.github.io/monster/",
-    "quizUrl": "https://monstertolong.netlify.app/"
+    "quizUrl": "https://monstertolong.netlify.app/",
+    "audiobookUrl": "https://still-inprogress.netlify.app/"
   },
   {
     "title": "Membeli Buku",
@@ -50,7 +54,8 @@
     "synopsis": "This story Membeli Buku is translated by Nasema Zeerak . The © for this translation lies with The Asia Foundation, 2004. Some rights reserved. Released under CC BY 4.0 license. Based on Original story Going to Buy a Book, by Rukmini Banerji . © Pratham Books , 2004. Some rights reserved. Released under CC BY 4.0 license.",
     "coverImage": "img/membeli buku.JPG",
     "flipbookUrl": "https://heyzine.com/flip-book/26a9cd968a.html",
-    "quizUrl": "https://membelibuku.netlify.app/"
+    "quizUrl": "https://membelibuku.netlify.app/",
+    "audiobookUrl": "https://still-inprogress.netlify.app/"
   },
   {
     "title": "Sekolah Rimba",
@@ -60,7 +65,8 @@
     "synopsis": "This story Sekolah Rimba is translated by Fathu Rakhman Marangka . The © for this translation lies with Badan Pengembangan dan Pembinaan Bahasa, 2022. Some rights reserved. Released under CC BY 4.0 license. Based on Original story The Jungle School, by Madhav Chavan, Meera Tendolkar . © Pratham Books , 2004. Some rights reserved. Released under CC BY 4.0 license.",
     "coverImage": "img/sekolah rimba.JPG",
     "flipbookUrl": "https://heyzine.com/flip-book/82d540e8f0.html",
-    "quizUrl": "https://sekolahrimba.netlify.app/"
+    "quizUrl": "https://sekolahrimba.netlify.app/",
+    "audiobookUrl": "https://still-inprogress.netlify.app/"
   },
   {
     "title": "Satya yang Tidak Bisa Diam",
@@ -70,7 +76,8 @@
     "synopsis": "This story Satya yang Tidak Bisa Diam is translated by Iona Stella Lumban Tobing . The © for this translation lies with Badan Pengembangan dan Pembinaan Bahasa, 2021. Some rights reserved. Released under CC BY 4.0 license. Derived from Satya a la bougeotte!, by Sak Untala . © Sak Untala , 2018. Some rights reserved. Released under CC BY 4.0 license. Based on Original story Satya, Watch Out!, by Yamini Vijayan . © Pratham Books , 2017. Some rights reserved. Released under CC BY 4.0 license.",
     "coverImage": "img/satya.JPG",
     "flipbookUrl": "https://heyzine.com/flip-book/a3deff16f1.html",
-    "quizUrl": "https://satyadiam.netlify.app/"
+    "quizUrl": "https://satyadiam.netlify.app/",
+    "audiobookUrl": "https://still-inprogress.netlify.app/"
   },
   {
     "title": "Mari Berjalan Bersama",
@@ -80,7 +87,8 @@
     "synopsis": "This story Mari Berjalan Bersama is translated by Dwita Rizki Nientyas . The © for this translation lies with Badan Pengembangan dan Pembinaan Bahasa, 2022. Some rights reserved. Released under CC BY 4.0 license. Derived from 같이 걷자, by Daniel Choi . © Daniel Choi , 2020. Some rights reserved. Released under CC BY 4.0 license. Based on Original story Walking Together, by Jade Mathieson . © Book Dash , 2015. Some rights reserved. Released under CC BY 4.0 license.",
     "coverImage": "img/berjalan.png",
     "flipbookUrl": "https://online.anyflip.com/byhxy/hpdp/index.html",
-    "quizUrl": "https://kuis-berjalan.netlify.app/"
+    "quizUrl": "https://kuis-berjalan.netlify.app/",
+    "audiobookUrl": "https://still-inprogress.netlify.app/"
   },
   {
     "title": "Dunia Buku",
@@ -90,7 +98,8 @@
     "synopsis": "This story Dunia Buku is translated by Ari Sulistyo . The © for this translation lies with Badan Pengembangan dan Pembinaan Bahasa, 2022. Some rights reserved. Released under CC BY 4.0 license. Derived from A World of Books, by Zubin Miller . © Pratham Education Foundation , 2020. Some rights reserved. Released under CC BY 4.0 license. Based on Original story किताबों से बातें, by Dropti Sharma . © Pratham Education Foundation , 2020. Some rights reserved. Released under CC BY 4.0 license.",
     "coverImage": "img/buku.png",
     "flipbookUrl": "https://online.anyflip.com/byhxy/moiw/index.html",
-    "quizUrl": "https://duniabuku.netlify.app/"
+    "quizUrl": "https://duniabuku.netlify.app/",
+    "audiobookUrl": "https://still-inprogress.netlify.app/"
   },
   {
     "title": "Pentingnya Air",
@@ -100,7 +109,8 @@
     "synopsis": "This story Pentingnya Air is translated by Lenny Fitriani . The © for this translation lies with Lenny Fitriani, 2021. Some rights reserved. Released under CC BY 4.0 license. Based on Original story Importance of Water, by Faizan Mubashir . © Faizan Mubashir , 2018. Some rights reserved. Released under CC BY 4.0 license.",
     "coverImage": "img/air.png",
     "flipbookUrl": "https://online.anyflip.com/byhxy/bxiu/index.html",
-    "quizUrl": "https://kuis-hematair.netlify.app/"
+    "quizUrl": "https://kuis-hematair.netlify.app/",
+    "audiobookUrl": "https://still-inprogress.netlify.app/"
   },
   {
     "title": "Jas Hujan Merah",
@@ -110,7 +120,8 @@
     "synopsis": "This story Jas Hujan Merah is translated by Nasema Zeerak . The © for this translation lies with The Asia Foundation, 2015. Some rights reserved. Released under CC BY 4.0 license. Based on Original story The Red Raincoat, by Kiran Kasturia . © Pratham Books , 2015. Some rights reserved. Released under CC BY 4.0 license.",
     "coverImage": "img/jas hujan.png",
     "flipbookUrl": "https://online.anyflip.com/byhxy/gdgq/index.html",
-    "quizUrl": "https://kuis-jashujan.netlify.app//"
+    "quizUrl": "https://kuis-jashujan.netlify.app//",
+    "audiobookUrl": "https://still-inprogress.netlify.app/"
   },
   {
     "title": "Semut yang Sibuk",
@@ -120,7 +131,8 @@
     "synopsis": "This story Semut yang Sibuk is translated by Nasema Zeerak . The © for this translation lies with The Asia Foundation, 2017. Some rights reserved. Released under CC BY 4.0 license. Derived from Busy Ants, by Anastasia Liapchenko . © Anastasia Liapchenko , 2017. Some rights reserved. Released under CC BY 4.0 license. Based on Original story Busy Ants, by Kanchan Bannerjee . © Pratham Books , 2015. Some rights reserved. Released under CC BY 4.0 license.",
     "coverImage": "img/semut.png",
     "flipbookUrl": "https://online.anyflip.com/byhxy/eshd/index.html",
-    "quizUrl": "https://kuis-semut.netlify.app/"
+    "quizUrl": "https://kuis-semut.netlify.app/",
+    "audiobookUrl": "https://still-inprogress.netlify.app/"
   },
   {
     "title": "Layang-Layang Merah",
@@ -130,7 +142,8 @@
     "synopsis": "This story Layang-layang Merah is translated by Dwita Rizki Nientyas . The © for this translation lies with Badan Pengembangan dan Pembinaan Bahasa, 2022. Some rights reserved. Released under CC BY 4.0 license. Derived from 빨간 연, by Sunny Hsiao . © Sunny Hsiao , 2017. Some rights reserved. Released under CC BY 4.0 license. Based on Original story The Kite, by Jeyanthi Manokaran . © Pratham Books , 2016. Some rights reserved. Released under CC BY 4.0 license. ",
     "coverImage": "img/layang.png",
     "flipbookUrl": "https://online.anyflip.com/byhxy/xbir/index.html",
-    "quizUrl": "https://kuis-layang.netlify.app/"
+    "quizUrl": "https://kuis-layang.netlify.app/",
+    "audiobookUrl": "https://still-inprogress.netlify.app/"
   },
   {
     "title": "Ah! Sepak Bola!",
@@ -140,7 +153,8 @@
     "synopsis": "This story Ah! Sepak Bola! is translated by Dwita Rizki Nientyas . The © for this translation lies with Badan Pengembangan dan Pembinaan Bahasa, 2022. Some rights reserved. Released under CC BY 4.0 license. Derived from 아! 축구!, by Joseph Park . © Joseph Park , 2021. Some rights reserved. Released under CC BY 4.0 license. Based on Original story Ah! Football! , by Stella Kihweo . © African Storybook Initiative , 2015. Some rights reserved. Released under CC BY 4.0 license.",
     "coverImage": "img/sepak.png",
     "flipbookUrl": "https://online.anyflip.com/byhxy/mbvv/index.html",
-    "quizUrl": "https://kuis-sepakbola.netlify.app/"
+    "quizUrl": "https://kuis-sepakbola.netlify.app/",
+    "audiobookUrl": "https://still-inprogress.netlify.app/"
   },
   {
     "title": "Rima Si Pemberani",
@@ -150,7 +164,8 @@
     "synopsis": "This story Rima si Pemberani is translated by Kurniaddin Mahmud . The © for this translation lies with Badan Pengembangan dan Pembinaan Bahasa, 2022. Some rights reserved. Released under CC BY 4.0 license. Derived from Brave Rima, by Alisha Berger . © Room to Read , 2016. Some rights reserved. Released under CC BY 4.0 license. Based on Original story সাহসী রিমা, by Rakibul Islam . © Room to Read , 2016. Some rights reserved. Released under CC BY 4.0 license.",
     "coverImage": "img/rima.JPG",
     "flipbookUrl": "https://online.anyflip.com/byhxy/nssf/index.html",
-    "quizUrl": "https://still-inprogress.netlify.app/"
+    "quizUrl": "https://still-inprogress.netlify.app/",
+    "audiobookUrl": "https://still-inprogress.netlify.app/"
   },
   {
     "title": "Hari Olahraga",
@@ -160,7 +175,8 @@
     "synopsis": "This story Hari Olahraga is translated by Amalia Nindy Astuti . The © for this translation lies with Badan Pengembangan dan Pembinaan Bahasa, 2022. Some rights reserved. Released under CC BY 4.0 license. Based on Original story Sports Day, by Menaka Raman . © Pratham Books , 2019. Some rights reserved. Released under CC BY 4.0 license.",
     "coverImage": "img/olahraga.JPG",
     "flipbookUrl": "https://online.anyflip.com/byhxy/bhjm/index.html",
-    "quizUrl": "https://still-inprogress.netlify.app/"
+    "quizUrl": "https://still-inprogress.netlify.app/",
+    "audiobookUrl": "https://still-inprogress.netlify.app/"
   },
   {
     "title": "Ketika Matahari Terbit",
@@ -170,7 +186,8 @@
     "synopsis": "This story Ketika Matahari Terbit is translated by Nur Wulan Sari . The © for this translation lies with Badan Pengembangan dan Pembinaan Bahasa, 2022. Some rights reserved. Released under CC BY 4.0 license. Derived from In the Light of the Rising Sun, by Shannon David . © Room to Read , 2010. Some rights reserved. Released under CC BY 4.0 license. Based on Original story बिहानीको घामसँगै, by Tara Pun . © Room to Read , 2010. Some rights reserved. Released under CC BY 4.0 license.",
     "coverImage": "img/matahari.JPG",
     "flipbookUrl": "https://online.anyflip.com/byhxy/ydck/index.html",
-    "quizUrl": "https://still-inprogress.netlify.app/"
+    "quizUrl": "https://still-inprogress.netlify.app/",
+    "audiobookUrl": "https://still-inprogress.netlify.app/"
   },
   {
     "title": "Pensil Warna",
@@ -180,7 +197,8 @@
     "synopsis": "This story Pensil Warna is translated by Fathu Rakhman Marangka . The © for this translation lies with Badan Pengembangan dan Pembinaan Bahasa, 2022. Some rights reserved. Released under CC BY 4.0 license. Derived from Colouring Pencils, by Gouri Srinidhi . © Room to Read , 2014. Some rights reserved. Released under CC BY 4.0 license. Based on Original story ខ្មៅដៃពណ៌, by Long Ravy . © Room to Read , 2014. Some rights reserved. Released under CC BY 4.0 license.",
     "coverImage": "img/pensil.JPG",
     "flipbookUrl": "https://online.anyflip.com/byhxy/yftx/index.html",
-    "quizUrl": "https://still-inprogress.netlify.app/"
+    "quizUrl": "https://still-inprogress.netlify.app/",
+    "audiobookUrl": "https://still-inprogress.netlify.app/"
   },
   {
     "title": "Tara Menemukan Bintang-Bintangnya",
@@ -190,7 +208,8 @@
     "synopsis": "This storyTara Menemukan Bintang-Bintangnya. is translated by Nasema Zeerak . The © for this translation lies with The Asia Foundation, 2017. Some rights reserved. Released under CC BY 4.0 license. Derived from Tara finds her stars, by Francesca Di Felice . © Francesca Di Felice , 2017. Some rights reserved. Released under CC BY 4.0 license. Based on Original story Tara Finds Her Stars, by Mala Kumar, Manisha Chaudhry . © Pratham Books , 2015. Some rights reserved. Released under CC BY 4.0 license.",
     "coverImage": "img/tara.JPG",
     "flipbookUrl": "https://online.anyflip.com/byhxy/mjtx/index.html",
-    "quizUrl": "https://still-inprogress.netlify.app/"
+    "quizUrl": "https://still-inprogress.netlify.app/",
+    "audiobookUrl": "https://still-inprogress.netlify.app/"
   },
   {
     "title": "Gul di Luar Angkasa",
@@ -200,7 +219,8 @@
     "synopsis": "This story Gul di Luar Angkasa is translated by Nasema Zeerak . The © for this translation lies with Pratham Books, 2017. Some rights reserved. Released under CC BY 4.0 license. Based on Original story Gul in Space, by Richa Jha . © Pratham Books , 2017. Some rights reserved. Released under CC BY 4.0 license.",
     "coverImage": "img/gul.JPG",
     "flipbookUrl": "https://online.anyflip.com/byhxy/ytet/index.html",
-    "quizUrl": "https://still-inprogress.netlify.app/"
+    "quizUrl": "https://still-inprogress.netlify.app/",
+    "audiobookUrl": "https://still-inprogress.netlify.app/"
   },
   {
     "title": "Sama Ataukah Berbeda",
@@ -210,7 +230,8 @@
     "synopsis": "This story Sama ataukah Berbeda? is translated by Nasema Zeerak . The © for this translation lies with Pratham Books, 2017. Some rights reserved. Released under CC BY 4.0 license. Based on Original story Same-same or Different?, by Roopa Pai . © Pratham Books, 2017. Some rights reserved. Released under CC BY 4.0 license.",
     "coverImage": "img/sama.JPG",
     "flipbookUrl": "https://online.anyflip.com/byhxy/hork/index.html",
-    "quizUrl": "https://still-inprogress.netlify.app/"
+    "quizUrl": "https://still-inprogress.netlify.app/",
+    "audiobookUrl": "https://still-inprogress.netlify.app/"
   },
   {
     "title": "Setiap Menit Berharga",
@@ -220,7 +241,8 @@
     "synopsis": "This story Setiap Menit Berharga is translated by Iona Stella Lumban Tobing . The © for this translation lies with Badan Pengembangan dan Pembinaan Bahasa, 2022. Some rights reserved. Released under CC BY 4.0 license. Based on Original story Every Minute Counts, by Shabnam Minwalla . © Pratham Books, 2021. Some rights reserved. Released under CC BY 4.0 license.",
     "coverImage": "img/menit.JPG",
     "flipbookUrl": "https://online.anyflip.com/byhxy/efxh/index.html",
-    "quizUrl": "https://still-inprogress.netlify.app/"
+    "quizUrl": "https://still-inprogress.netlify.app/",
+    "audiobookUrl": "https://still-inprogress.netlify.app/"
   },
   {
     "title": "Safari Akbar",
@@ -230,6 +252,7 @@
     "synopsis": "This story Safari Akbar is translated by Ahmad Husni . The © for this translation lies with Badan Pengembangan dan Pembinaan Bahasa, 2023. Some rights reserved. Released under CC BY 4.0 license. Based on Original story The Great Rifasa, by Rohini Nilekani . © Pratham Books , 2021. Some rights reserved. Released under CC BY 4.0 license.",
     "coverImage": "img/safari.JPG",
     "flipbookUrl": "https://online.anyflip.com/byhxy/nlcy/index.html",
-    "quizUrl": "https://still-inprogress.netlify.app/"
+    "quizUrl": "https://still-inprogress.netlify.app/",
+    "audiobookUrl": "https://still-inprogress.netlify.app/"
   }
 ]
