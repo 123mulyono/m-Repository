@@ -413,13 +413,6 @@
             </a>
           </li>
           <li>
-            <a href="Library.html" class="relative px-6 py-3 text-gray-700 hover:text-primary transition-all duration-300 flex items-center group">
-              <i data-feather="book" class="w-5 h-5 mr-2 transition-transform duration-300 group-hover:scale-125"></i>
-              Repositori Bacaan
-              <span class="absolute bottom-0 left-0 w-0 h-0.5 bg-primary transition-all duration-300 group-hover:w-full"></span>
-            </a>
-          </li>
-          <li>
             <a href="ReadingLibrary.html" class="relative px-6 py-3 text-primary font-medium flex items-center group">
               <i data-feather="book-open" class="w-5 h-5 mr-2 text-primary transition-transform duration-300 group-hover:scale-125"></i>
               Repositori Cerita
@@ -595,11 +588,16 @@
                       <h2 class="text-xl font-bold mb-2">${book.title}</h2>
                       <p class="text-sm"><strong>Penulis:</strong> ${book.author}</p>
                       <p class="text-sm"><strong>Kategori:</strong> ${book.category}</p>
-                      <div class="flex flex-row space-x-2">
-                        <button class="mt-4 bg-primary text-white px-4 py-2 rounded-md shadow-md hover:bg-teal-600 transition-all duration-300 ripple" onclick="openLightbox('${book.flipbookUrl}')" aria-label="Baca buku ${book.title}">Baca Buku</button>
-                        <button class="mt-4 bg-red-500 text-white px-4 py-2 rounded-md shadow-md hover:bg-red-600 transition-all duration-300 ripple" onclick="openLightbox('${book.quizUrl}', true)" aria-label="Mulai kuis ${book.title}">Mulai Kuis</button>
-                        <button class="mt-4 bg-blue-500 text-white px-4 py-2 rounded-md shadow-md hover:bg-blue-600 transition-all duration-300 ripple" onclick="showPreview('${book.synopsis}')" aria-label="Atribusi ${book.title}">Atribusi</button>
-                      </div>
+                      <div class="grid grid-cols-1 sm:grid-cols-2 gap-2 mt-4 w-full">
+                          <button class="bg-primary text-white px-4 py-2 rounded-md shadow-md hover:bg-teal-600 transition-all duration-300 ripple"
+                            onclick="openLightbox('${book.flipbookUrl}')" aria-label="Baca buku ${book.title}">Baca Buku</button>
+                          <button class="bg-red-500 text-white px-4 py-2 rounded-md shadow-md hover:bg-red-600 transition-all duration-300 ripple"
+                            onclick="openLightbox('${book.quizUrl}', true)" aria-label="Mulai kuis ${book.title}">Mulai Kuis</button>
+                          <button class="bg-blue-500 text-white px-4 py-2 rounded-md shadow-md hover:bg-blue-600 transition-all duration-300 ripple"
+                            onclick="showPreview('${book.synopsis}')" aria-label="Atribusi ${book.title}">Atribusi</button>
+                          <button class="bg-yellow-500 text-white px-4 py-2 rounded-md shadow-md hover:bg-yellow-600 transition-all duration-300 ripple"
+                            onclick="openLightbox('${book.audioUrl}')" aria-label="Dengarkan audiobook ${book.title}">Audiobook</button>
+                        </div>
                     </div>
                   </div>`
           )
