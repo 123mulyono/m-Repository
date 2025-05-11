@@ -32,7 +32,7 @@
       .background-overlay {
         position: absolute;
         inset: 0;
-        background: url('https://unsplash.com/photos/photo-of-library-with-turned-on-lights-sfL_QOnmy00') center/cover no-repeat;
+        background: url("https://unsplash.com/photos/photo-of-library-with-turned-on-lights-sfL_QOnmy00") center/cover no-repeat;
         filter: blur(8px);
         transform: scale(1.1);
         opacity: 0.7;
@@ -114,7 +114,7 @@
       }
 
       .enter-button::before {
-        content: '';
+        content: "";
         position: absolute;
         top: 0;
         left: -100%;
@@ -175,9 +175,15 @@
         }
       }
 
-      .delay-1 { animation-delay: 0.2s; }
-      .delay-2 { animation-delay: 0.4s; }
-      .delay-3 { animation-delay: 0.6s; }
+      .delay-1 {
+        animation-delay: 0.2s;
+      }
+      .delay-2 {
+        animation-delay: 0.4s;
+      }
+      .delay-3 {
+        animation-delay: 0.6s;
+      }
 
       /* Responsive Design */
       @media (max-width: 768px) {
@@ -220,9 +226,10 @@
       <div class="content-wrapper">
         <img src="images/logo m-lib.png" alt="m-Library Logo" class="logo fade-in" />
         <h1 class="fade-in delay-1">Selamat Datang</h1>
-        <p class="tagline fade-in delay-2">Ini hanya repositori sederhana, terdiri dari dua bagian. Repositori pertama berisi bacaan seputar kurikulum dan pembelajaran yang dikumpulkan dari berbagai sumber. Repositori kedua berisi cerita anak dalam berbagai topik dan level bacaan, dikumpulkan dari situs dengan lisensi terbuka. Semoga bermanfaat!</p>
+        <p class="tagline fade-in delay-2">
+          Ini hanya repositori sederhana. Repositori ini berisi cerita anak dalam berbagai topik dan level bacaan, dikumpulkan dari situs dengan lisensi terbuka, dan dilengkapi dengan kuis serta audiobook. Semoga bermanfaat!
+        </p>
         <div class="button-container fade-in delay-3">
-          <button class="enter-button blue" onclick="window.location.href='Library.html'">Repositori Bacaan</button>
           <button class="enter-button red" onclick="window.location.href='ReadingLibrary.html'">Repositori Cerita</button>
         </div>
       </div>
